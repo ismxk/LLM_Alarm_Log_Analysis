@@ -21,6 +21,8 @@ log_alert_system/
 │── retrieval.py            # 检索代码
 │── requirements.txt        # 依赖包列表
 
+-注：记得切换为你自己的路径。
+
 ## 安装与使用
 
 ### 安装依赖
